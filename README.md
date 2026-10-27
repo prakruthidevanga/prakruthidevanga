@@ -19,8 +19,8 @@
 *BCA (Artificial Intelligence & Machine Learning) @ Alliance University, Bengaluru (2024–2027)*  
 *CGPA: 9.10 (Yr 1) | 9.60 (Yr 2) • Felicitated for Academic Excellence (SGPA: 9.3) • GFG Campus Mantri (2026)*
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B7285?style=for-the-badge&logo=vercel&logoColor=white)](https://prakruthidevanga.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-075985?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakruthi-br)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B7285?style=for-the-badge&logo=vercel&logoColor=white)](https://prakruthi-br.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-075985?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/prakruthi-br-178027326)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakruthibr2006@gmail.com)
 
 </div>
