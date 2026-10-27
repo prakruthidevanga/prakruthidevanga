@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,50:075985,100:06B6D4&height=230&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PRAKRUTHI%20BR%20%7C%20BUILDING%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=58&descColor=BAE6FD" width="100%" alt="Welcome to my GitHub profile" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=230&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PRAKRUTHI%20BR%20%7C%20BUILDING%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=58&descColor=A7F3D0" width="100%" alt="Welcome to my GitHub profile" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=BCA+Student+in+AI+%26+Machine+Learning;GeeksforGeeks+Campus+Mantri+(2026);Agentic+AI+%26+GenAI+Application+Developer;Power+BI+%26+Data+Analytics+Specialist;Building+Practical%2C+Intelligent+Solutions" alt="Developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=750&lines=BCA+Student+in+AI+%26+Machine+Learning;GeeksforGeeks+Campus+Mantri+(2026);Agentic+AI+%26+GenAI+Application+Developer;Power+BI+%26+Data+Analytics+Specialist;Building+Practical%2C+Intelligent+Solutions" alt="Developer introduction" />
 
 <br/><br/>
 
 <a href="https://github.com/prakruthidevanga">
-  <img src="avatar.jpeg" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 3px solid #06B6D4; box-shadow: 0px 4px 15px rgba(6, 182, 212, 0.4);" alt="Prakruthi BR Profile Photo" />
+  <img src="avatar.jpeg" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 3px solid #10B981; box-shadow: 0px 4px 15px rgba(16, 185, 129, 0.4);" alt="Prakruthi BR Profile Photo" />
 </a>
 
 <br/>
@@ -21,6 +21,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B7285?style=for-the-badge&logo=vercel&logoColor=white)](https://prakruthi-br.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-075985?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/prakruthi-br-178027326)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Prakruthi_BR/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakruthibr2006@gmail.com)
 
 </div>
@@ -254,23 +255,23 @@ Let's connect, share ideas, and learn together!
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakruthidevanga)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=vercel&logoColor=white)](https://prakruthidevanga.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-075985?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakruthi-br)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Prakruthi_BR/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-166534?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=prakruthidevanga&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=prakruthidevanga&style=for-the-badge&color=059669&label=PROFILE+VIEWS" alt="Profile view counter" />
 
 <br/><br/>
 
 <a href="https://github.com/prakruthidevanga">
-  <img src="avatar.jpeg" width="140" height="140" style="border-radius:50%; object-fit: cover; border: 3px solid #06B6D4;" alt="Prakruthi BR GitHub profile picture" />
+  <img src="avatar.jpeg" width="140" height="140" style="border-radius:50%; object-fit: cover; border: 3px solid #10B981; box-shadow: 0px 4px 15px rgba(16, 185, 129, 0.4);" alt="Prakruthi BR GitHub profile picture" />
 </a>
 
 ### 💙 Thanks for visiting my GitHub profile!
 
 *Keep learning. Keep building. Keep growing.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:071A2C&height=110&section=footer" width="100%" alt="Decorative footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:047857,100:064E3B&height=110&section=footer" width="100%" alt="Decorative footer banner" />
 
 </div>
